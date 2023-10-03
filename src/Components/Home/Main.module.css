@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap");
+
+.cursive {
+  font-family: "Cedarville Cursive", cursive;
+}
+
+.dg {
+  font-family: "Darker Grotesque", sans-serif;
+}
+
+.dms {
+  font-family: "DM Sans", sans-serif;
+}
+
+.cursivePacifico {
+  font-family: "Pacifico", cursive;
+}
