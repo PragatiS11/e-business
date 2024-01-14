@@ -39,14 +39,8 @@ Step into Spend Wise, where style meets simplicity. Explore our fashion-forward 
 | :------------------: |
 
  <div align = "center">
- <img src="./spend-wise/public/pic1.PNG?raw=true" width="946" height="384"/>
- <img src="./spend-wise/public/pic2.PNG?raw=true" width="946" height="384"/>
- <img src="./spend-wise/public/pic3.PNG?raw=true" width="946" height="384"/>
- <img src="./spend-wise/public/pic4.PNG?raw=true" width="946" height="384"/>
- <img src="./spend-wise/public/pic5.PNG?raw=true" width="946" height="384"/>
- <img src="./spend-wise/public/pic6.PNG?raw=true" width="946" height="384"/>
- <img src="./spend-wise/public/pic7.PNG?raw=true" width="946" height="384"/>
- <img src="./spend-wise/public/pic8.PNG?raw=true" width="946" height="384"/>
+ <img src="[./spend-wise/public/pic1.PNG?raw=true](https://raw.githubusercontent.com/PragatiS11/reactPracticeProject/main/image/ebusiness.png)" width="946" height="384"/>
+ 
   
 <div/>
 
