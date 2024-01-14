@@ -39,7 +39,7 @@ Step into Spend Wise, where style meets simplicity. Explore our fashion-forward 
 | :------------------: |
 
  <div align = "center">
- <img src="[./spend-wise/public/pic1.PNG?raw=true](https://raw.githubusercontent.com/PragatiS11/reactPracticeProject/main/image/ebusiness.png)" width="946" height="384"/>
+<img src= "[https://github.com/PragatiS11/reactPracticeProject/blob/main/image/charity1.png?raw=true](https://github.com/PragatiS11/reactPracticeProject/blob/main/image/ebusiness.png?raw=true)" alt= "image"/>
  
   
 <div/>
